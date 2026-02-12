@@ -20,7 +20,7 @@ import jakarta.persistence.Entity;
  *         entity1.persist();
  *
  *         List<MyEntity> entities = MyEntity.listAll();
- *     }
+ *     }sdsdsdsdsd
  * }
  */
 @Entity
